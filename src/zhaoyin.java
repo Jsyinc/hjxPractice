@@ -241,6 +241,8 @@ public class zhaoyin {
 //            it.close();
 //        }
 //    }
+
+    //testget();
 }
 
 
